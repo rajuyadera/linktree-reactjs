@@ -3,7 +3,7 @@ import ParticlesBg from "particles-bg";
 import "./App.css";
 import Card from "./components/card";
 import Footer from "./components/footer";
-import profilPicture from "./components/image/profil.jpg";
+import profilPicture from "./components/image/profil2.jpg";
 
 const App = () => {
 
@@ -28,6 +28,7 @@ const App = () => {
         <h1>@rajuydr</h1>
       </header>
       <Card />
+      <Footer/>
     </div>
   );
 };

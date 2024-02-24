@@ -1,4 +1,4 @@
-import { FaTwitter } from 'react-icons/fa'
+import { FaLinkedin} from 'react-icons/fa'
 import { FaGithub } from 'react-icons/fa';
 import { FaTiktok } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
@@ -19,16 +19,13 @@ const card = () => {
                 <a href="" onClick={() => notif()}><FaHome /> Official Website</a>
               </li>
               <li>
-                <a href="https://vt.tiktok.com/ZSR1HDUKr/"><FaTiktok /> Tiktok</a>
+                <a href="https://www.linkedin.com/in/rajuyadera"><FaLinkedin /> LinkedIn</a>
               </li>
               <li>
-                <a href="https://twitter.com/rajuyadera"><FaTwitter/> Twitter</a>
+                <a href="https://www.tiktok.com/@rajuydr"><FaTiktok /> Tiktok</a>
               </li>
               <li>
                 <a href="https://github.com/rajuyadera"><FaGithub /> Github</a>
-              </li>
-              <li>
-                <a href="https://instagram.com/alyaamutiara"><FaInstagram /> Instagram - Girlfriend</a>
               </li>
               <li>
                 <a href="https://instagram.com/vinsmoke.ju"><FaInstagram /> Sec Acc - Instagram</a>
